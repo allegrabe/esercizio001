@@ -1,1 +1,1 @@
-# in questo progetto chiederemo un numero restituendone il doppio 
+# in questo progetto chiederemo un numero restituendone il triplo 
